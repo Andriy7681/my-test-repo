@@ -1,2 +1,2 @@
-print 'good by'
-print 'good by 1'
+print 'good by;'
+print 'good by 1;'
