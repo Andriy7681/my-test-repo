@@ -1,0 +1,2 @@
+print 'good by'
+print 'good by 1'
